@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace OOPReview1
 {
-    public enum NHLConference
+    public enum Position
     {
-        West,
-        East
+        LW,
+        RW,
+        C,
+        D,
+        G
     }
-    
 }

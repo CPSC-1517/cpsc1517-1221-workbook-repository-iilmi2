@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace OOPReview1
 {
-    public enum NhlDivision
+    public enum NhlConferene
     {
-        Metropolitan, 
-        Atlantic, 
-        Central, 
-        Pacific
+        Eastern,
+        Western
     }
 }
