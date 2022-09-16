@@ -1,0 +1,15 @@
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\bin\Debug\net6.0\NHLSystem.exe
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\bin\Debug\net6.0\NHLSystem.deps.json
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\bin\Debug\net6.0\NHLSystem.runtimeconfig.json
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\bin\Debug\net6.0\NHLSystem.dll
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\bin\Debug\net6.0\NHLSystem.pdb
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.csproj.AssemblyReference.cache
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.AssemblyInfoInputs.cache
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.AssemblyInfo.cs
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.csproj.CoreCompileInputs.cache
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.dll
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\refint\NHLSystem.dll
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.pdb
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\NHLSystem.genruntimeconfig.cache
+C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\obj\Debug\net6.0\ref\NHLSystem.dll
