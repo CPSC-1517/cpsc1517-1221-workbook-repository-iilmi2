@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = NHLSystem
+build_property.ProjectDir = C:\Users\iilmi2\source\repos\cpsc1517-1221-workbook-repository-iilmi2\NHLSystem\NHLSystem\NHLSystem\
