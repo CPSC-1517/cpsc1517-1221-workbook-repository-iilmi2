@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj": {}
+    "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj": {
+    "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj",
+        "projectUniqueName": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj",
         "projectName": "NHLSystem",
-        "projectPath": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj",
+        "projectPath": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj",
         "packagesPath": "C:\\Users\\iilmi2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\obj\\",
+        "outputPath": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj": {
+    "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj",
+        "projectUniqueName": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj",
         "projectName": "PersonTest",
-        "projectPath": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj",
+        "projectPath": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\PersonTest.csproj",
         "packagesPath": "C:\\Users\\iilmi2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\obj\\",
+        "outputPath": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\TestNHLSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -91,8 +91,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj": {
-                "projectPath": "C:\\Users\\iilmi2\\source\\repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj"
+              "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj": {
+                "projectPath": "C:\\Users\\iilmi2\\Source\\Repos\\cpsc1517-1221-workbook-repository-iilmi2\\NHLSystem\\NHLSystem\\NHLSystem\\NHLSystem.csproj"
               }
             }
           }
